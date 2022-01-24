@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Being a Data Scientist, I have 4+ years of experience in Machine learning and data science. I enjoy solving large, complex data problems and also enjoy the process of building and determining a solution.
+
+## Projects: 
+
 <!--
 **rahulmisal27/rahulmisal27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
