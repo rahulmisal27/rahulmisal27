@@ -12,6 +12,8 @@
 
 Being a Data Scientist, I have 4+ years of experience in Machine learning and data science. I enjoy solving large, complex data problems and also enjoy the process of building and determining a solution.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmisal27&layout=compact)
+
 ## Projects: 
 
 
