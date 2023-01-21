@@ -2,17 +2,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulmisal27&label=Views&color=blue&style=plastic" alt="rahulmisal27" /> </p>
 
+- 📫 How to reach me: ...
+
 <a href="mailto:rahulmisal27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.youtube.com/@TechnocracyInAction"><img src="https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white" ></a>
 <a href="https://www.linkedin.com/in/rahul-misal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://medium.com/@rahulmisal"><img src="https://img.shields.io/badge/Medium-000304?style=for-the-badge&logo=medium&logoColor=white"></a>
 
 
-### Hi there 👋
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmisal27&layout=compact)
 
-## Projects: 
+- 🔭 I’m currently working on ...
 
 
 <!--
