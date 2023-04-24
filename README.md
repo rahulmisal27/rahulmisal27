@@ -9,9 +9,6 @@
 <a href="https://www.linkedin.com/in/rahul-misal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://medium.com/@rahulmisal"><img src="https://img.shields.io/badge/Medium-000304?style=for-the-badge&logo=medium&logoColor=white"></a>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmisal27&layout=compact)
-
 - 🔭 I’m currently working on ...
 
 
